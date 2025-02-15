@@ -10,7 +10,7 @@ import {
   Component8,
   Component9,
   Component10
-} from './components/NestedComponents';
+} from './NestedComponents';
 import { Layers } from 'lucide-react';
 
 function App() {
